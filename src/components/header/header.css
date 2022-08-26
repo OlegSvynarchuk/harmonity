@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+  align-items: flex-end;
+  position: relative;
+}
+
+.header-bottom {
+  width: 100%;
+  height: 10px;
+  background: linear-gradient(90deg, rgba(70, 217, 76, 1) 4%, rgba(7, 58, 187, 1) 100%);
+}
+
+.search-form {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.search-form input {
+  box-sizing: border-box;
+  display: block;
+  height: 25px;
+  width: 100%;
+  border: 2px solid #cbcbcb;
+}
+
+@media only screen and (min-width: 768px) {
+  header {
+    padding: 0 40px;
+  }
+}

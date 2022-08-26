@@ -1,0 +1,19 @@
+.tablet-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tablet-navbar-icons-list {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  margin-right: 50px;
+}
+
+.tablet-navbar-icon a {
+  font-size: 24px;
+  color: #b9b9b9;
+}

@@ -1,0 +1,6 @@
+.desktop-navbar {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  padding: 40px 0;
+}

@@ -1,0 +1,33 @@
+.footer {
+  display: flex;
+  padding: 10px 15px;
+  background-color: #dbdbdb;
+  justify-content: space-between;
+}
+
+.social {
+  justify-self: flex-start;
+  width: 160px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-item,
+.go-top-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  padding: 7px;
+  background-color: #fff;
+  border-radius: 50%;
+  color: #696e71;
+}
+
+@media only screen and (min-width: 480px) {
+  .footer {
+    justify-content: space-between;
+    padding: 10px 35px;
+  }
+}
