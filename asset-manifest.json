@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/harmonity/static/css/main.7ac11660.css",
+    "main.js": "/harmonity/static/js/main.e593400b.js",
+    "static/media/teamwork.png": "/harmonity/static/media/teamwork.155ff56757ead81ee26b.png",
+    "static/media/whoweare1.jpg": "/harmonity/static/media/whoweare1.49350cfd64d4e6eb4671.jpg",
+    "static/media/dots.png": "/harmonity/static/media/dots.643b4ee60222f0e0217e.png",
+    "static/media/whoweare2.jpg": "/harmonity/static/media/whoweare2.a858d2e5dcb8387531ab.jpg",
+    "index.html": "/harmonity/index.html",
+    "main.7ac11660.css.map": "/harmonity/static/css/main.7ac11660.css.map",
+    "main.e593400b.js.map": "/harmonity/static/js/main.e593400b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac11660.css",
+    "static/js/main.e593400b.js"
+  ]
+}
